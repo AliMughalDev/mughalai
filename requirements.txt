@@ -1,0 +1,9 @@
+# install the required libraries
+# pip install - r requirements.txt
+openai
+langchain
+langchain-openai
+langchain-core
+streamlit
+tiktoken
+python-dotenv
